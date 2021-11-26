@@ -1,0 +1,108 @@
+body {
+    background-color: #222831
+}
+
+h1 {
+    color:#FF2E63;
+    text-align: center;
+}
+
+p {
+    color: #AA14F0;;
+    text-align: center;
+}
+
+.div {
+    border: 3px solid #EEEEEE;
+    margin: auto;
+    background-color: #EEEEEE;
+}
+
+ul {
+    color: #AA14F0;;
+}
+
+marquee {
+    Color: #CBF1F5
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table {
+    background-color: white;
+}
+button {
+    text-align: center;
+}
+
+.home {
+    color: #FF2E63;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cad {
+    background-color: white;
+}
+
+.phone_holder {
+    background-color: white;
+    text-align: center;
+}
+
+.calendar {
+    background-color: white;
+    float: center;
+    padding: 20px;
+    text-align: center;
+    margin-top: 30px;
+   
+}
+
+
+
+.notetaker {
+    background-color: white;
+    padding: 20px;
+    
+}
+
+.git {
+    background-color: white;
+    text-align: center;
+    padding: 20px;
+}
+
+.logo {
+    background-color: white;
+    text-align: center;
+    padding:20px;
+}
+
+hr {
+    border: 1px solid #AA14F0;
+}
+
+h3 {
+    color: #FF2E63;
+}
+
+.home {
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.tigers {
+    background-color: white;
+    text-align: center;
+}
+
+ol {
+    color:#AA14F0;
+}
